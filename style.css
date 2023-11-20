@@ -1,0 +1,24 @@
+.colume {
+    width: 33.3%;
+    float: left;
+    /* border: 1px solid red; */
+    width: 150px;
+    font-size: small;
+    background-color: antiquewhite;
+    margin: 20px;
+}
+
+.row {
+    border: 10px solid black;
+    height: 600px;
+    margin: 80px;
+}
+
+.colume1 {
+    width: 33.3%;
+    float: left;
+    width: 150px;
+    font-size: small;
+    background-color: antiquewhite;
+    margin: 20px;
+}
